@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently interested on **Data Science**
 
-- 🌱 I’m currently learning **Pyhon, SQL, Power BI, Tableau, Statistics and Data Analysis**
+- 🌱 I’m currently learning **Python, SQL, Power BI, Tableau and Statistics**
 
 - 📫 How to reach me **nurlanjalil@icloud.com**
 
