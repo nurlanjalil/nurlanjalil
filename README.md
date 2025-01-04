@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nurlan Jalilov</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurlanjalil&label=Profile%20views&color=0e75b6&style=flat" alt="nurlanjalil" /> </p>
 
-- 🔭 I’m currently interested on **Data Science**
+- 🔭 I’m currently interested on **Data Science** and **Machine Learning**
 
 - 🌱 I’m currently learning **Python, SQL, Power BI, Tableau and Statistics**
 
