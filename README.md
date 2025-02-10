@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Nurlan Jalilov</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurlanjalil&label=Profile%20views&color=0e75b6&style=flat" alt="nurlanjalil" /> </p>
 
-- 🔭 I’m currently interested on **Data Science** and **Machine Learning**
+- 🔭 Passionate about **AI-driven apps**, **Data Science** and **Machine Learning**
 
-- 🌱 I’m currently learning **Python, SQL, Power BI, Tableau and Statistics**
+- 🌱 Currently exploring AI integration, automation, and cloud-based AI services
 
-- 📫 How to reach me **jalilnurlan@gmail.com**
+- 🛠 Building AI-powered web apps, analyzing data, and deploying scalable ML solutions
+  
+- 🚀 Interested in Generative AI, self-hosted models, and intelligent automation
 
-- 💼 My Portfolio Website: **https://nurlanjalil.tech/**
+  
+- 📫 How to reach me: **[jalilnurlan@gmail.com](mailto:jalilnurlan@gmail.com)**
+  
+- 💼 My Portfolio Website: **[https://nurlanjalil.tech/](https://nurlanjalil.tech/)**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
