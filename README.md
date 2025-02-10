@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nurlan Jalilov</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurlanjalil&label=Profile%20views&color=0e75b6&style=flat" alt="nurlanjalil" /> </p>
 
-- 🔭 Passionate about **AI-driven apps**, **Data Science** and **Machine Learning**
-
-- 🌱 Currently exploring AI integration, automation, and cloud-based AI services
-
-- 🛠 Building AI-powered web apps, analyzing data, and deploying scalable ML solutions
+- 🔭 Passionate about AI-driven apps, Data Science, and Machine Learning
+  
+- 🌱 Exploring AI integration, automation, and cloud-based services
+  
+- 🛠 Building data-driven solutions, analyzing trends, and optimizing workflows
   
 - 🚀 Interested in Generative AI, self-hosted models, and intelligent automation
 
